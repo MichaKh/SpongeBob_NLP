@@ -12,7 +12,7 @@ The project includes four Python files:
 * Interaction and Social Networks - Build the social network and visualize it.
 
 Example social network:
-![picture](Img/SpongeBob Social Network.png)
+![picture](Img/SpongeBob_Social_Network.png)
 
 •	Vertices – Each character entity was assigned to a vertex in the graph. We only included nodes corresponding to character with a “PERSON” POS tag count of at least 2.
 
